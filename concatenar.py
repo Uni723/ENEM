@@ -3,10 +3,10 @@ import os
 import re
 
 # Caminho da pasta onde as imagens estão
-pasta_imagens = 'metade recortadas'
+pasta_imagens = '29-31'
 
 # Caminho da nova pasta para salvar as imagens concatenadas
-pasta_saida = 'imagens_concatenadas'
+pasta_saida = '29-31-concatenadas'
 
 # Criação da pasta de saída, caso ela não exista
 os.makedirs(pasta_saida, exist_ok=True)
