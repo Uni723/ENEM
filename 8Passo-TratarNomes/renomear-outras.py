@@ -1,7 +1,7 @@
 import os
 
 def renomear_questoes_simples():
-    pasta = "questoes-paginas-16-18"
+    pasta = "questoes-paginas-20-27"
     
     if not os.path.exists(pasta):
         print(f"Pasta {pasta} não encontrada!")
